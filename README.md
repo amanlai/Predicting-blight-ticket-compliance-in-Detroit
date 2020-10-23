@@ -1,1 +1,1 @@
-# detroit_blight
+# Predicting blight ticket compliance in Detroit
